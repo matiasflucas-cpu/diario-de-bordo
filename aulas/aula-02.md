@@ -1,0 +1,6 @@
+- [x] conceito
+- [x] diferença 
+- [x] como usar
+- [x] criar repositórios 
+- [x] fazer commits
+- [x] branches
